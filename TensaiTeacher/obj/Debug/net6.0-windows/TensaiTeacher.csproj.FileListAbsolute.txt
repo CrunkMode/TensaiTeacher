@@ -1,0 +1,17 @@
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\bin\Debug\net6.0-windows\TensaiTeacher.exe
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\bin\Debug\net6.0-windows\TensaiTeacher.deps.json
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\bin\Debug\net6.0-windows\TensaiTeacher.runtimeconfig.json
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\bin\Debug\net6.0-windows\TensaiTeacher.dll
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\bin\Debug\net6.0-windows\TensaiTeacher.pdb
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.csproj.AssemblyReference.cache
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\BakaTeacher.Form1.resources
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.csproj.GenerateResource.cache
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.AssemblyInfoInputs.cache
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.AssemblyInfo.cs
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.csproj.CoreCompileInputs.cache
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.dll
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\refint\TensaiTeacher.dll
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.pdb
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\TensaiTeacher.genruntimeconfig.cache
+E:\DataHoard\Projects\TensaiTeacher\TensaiTeacher\obj\Debug\net6.0-windows\ref\TensaiTeacher.dll
